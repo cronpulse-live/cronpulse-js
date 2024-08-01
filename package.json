@@ -1,0 +1,11 @@
+{
+  "name": "cronpulse",
+  "version": "1.0.0",
+  "description": "end-to-end monitoring for background jobs",
+  "main": "cronpulse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
